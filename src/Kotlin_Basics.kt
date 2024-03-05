@@ -60,7 +60,12 @@ fun main(args:Array<String>){
 //        10. switch or when function
 //
 //        var value=describe("Hello")
-//    println(value)
+//          println(value)
+
+//            11. loops
+//        for(i in 1..2){
+//            print(i)
+//        }
 
 
 
@@ -88,3 +93,4 @@ class Add constructor(a: Int,b:Int)
     }
 
 }
+
